@@ -104,6 +104,11 @@ a:hover, a:focus {
   margin: 0 1%;
 }
 
+.nav-logo {
+  width: 15%;
+  height: 15%;
+}
+
 @media screen and (max-width: 768px) {
   .probootstrap-header {
     padding-top: 30px;
@@ -112,6 +117,11 @@ a:hover, a:focus {
 
   .photochild {
   flex: 0 1 100%; 
+  }
+
+  .nav-logo {
+  width: 35%;
+  height: 35%;
   }
 }
 

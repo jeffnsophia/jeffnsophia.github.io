@@ -731,8 +731,13 @@ a:hover, a:focus {
 }
 
 .probootstrap-footer .probootstrap-social {
-  float: right;
+/*  float: right;*/
+  }
+
+.bottom-nav{
+    margin-top: 100px;
 }
+
 
 @media screen and (max-width: 768px) {
   .probootstrap-footer .probootstrap-social {
